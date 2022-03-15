@@ -1,6 +1,6 @@
 ## NYCU-Software-Testing-2022-Lab3
 
-### Implemented CI by Using Github Action 
+#### Implemented CI by Using Github Action 
 
 
 ![example workflow](https://github.com/JianShuiHuang/ST-2022-0713223/actions/workflows/CI_test.yml/badge.svg)
