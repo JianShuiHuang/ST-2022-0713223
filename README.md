@@ -6,13 +6,13 @@
 ![example workflow](https://github.com/JianShuiHuang/ST-2022-0713223/actions/workflows/CI_test.yml/badge.svg)
 
 
-* Pass
+* __Pass__
 ![image](https://github.com/JianShuiHuang/ST-2022-0713223/blob/master/images/pass_1.PNG)
 ![image](https://github.com/JianShuiHuang/ST-2022-0713223/blob/master/images/pass_2.PNG)
 ![image](https://github.com/JianShuiHuang/ST-2022-0713223/blob/master/images/pass_3.PNG)
 
 
-* Fail
+* __Fail__
 ![image](https://github.com/JianShuiHuang/ST-2022-0713223/blob/master/images/fail_1.PNG)
 ![image](https://github.com/JianShuiHuang/ST-2022-0713223/blob/master/images/fail_2.PNG)
 ![image](https://github.com/JianShuiHuang/ST-2022-0713223/blob/master/images/fail_3.PNG)
